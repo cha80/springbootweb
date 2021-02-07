@@ -1,5 +1,5 @@
 # springbootweb
-1.install jdk java environment and sql server 
+1.install jdk java environment and Microsoft sql server 
 
 2.import spring.bak， --Microsoft sql database 
 
