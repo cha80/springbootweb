@@ -1,4 +1,4 @@
-# springbootweb
+# springbootweb springboot+jsp+sqlseever +servelet
 1.install jdk java environment and Microsoft sql server 
 
 2.import spring.bak， --Microsoft sql database 
