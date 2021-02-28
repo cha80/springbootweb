@@ -8,5 +8,8 @@
 安装jdk和微软sql server并导入spring.bak数据库文件
 打开命令行工具进入Spring.jar所在的文件目录
 使用java -jar spring.jar运行软件
-
+Browser  浏览器 enter 输入 
+localhost:8080 or 127.0.0.1:8080
+即可运行项目
+run this project
 
